@@ -1,0 +1,10 @@
+export const movies = [
+  { id: 1, title: 'Dune: Part Two', year: 2024, genre: 'ไซไฟ', rating: '8.5', type: 'ภาพยนตร์', poster: 'https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJI6nQb8w2g8t9bJ.jpg', backdrop: 'https://image.tmdb.org/t/p/w1280/xOMo8BRK7PfcJv9JC aP5e9Y6.jpg'.replace(' ', ''), description: 'การเดินทางของพอล อะเทรดีส สู่ทะเลทรายอาร์ราคิส เพื่อเผชิญชะตากรรมและอนาคตของจักรวาล' },
+  { id: 2, title: 'The Batman', year: 2022, genre: 'แอ็กชัน', rating: '7.8', type: 'ภาพยนตร์', poster: 'https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg', description: 'อัศวินรัตติกาลสืบสวนคดีปริศนาที่เปิดโปงความมืดของเมืองก็อตแธม' },
+  { id: 3, title: 'Interstellar', year: 2014, genre: 'ไซไฟ', rating: '8.7', type: 'ภาพยนตร์', poster: 'https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg', description: 'ภารกิจเดินทางข้ามจักรวาลเพื่อค้นหาบ้านใหม่ให้มนุษยชาติ' },
+  { id: 4, title: 'Spider-Man: Across the Spider-Verse', year: 2023, genre: 'แอนิเมชัน', rating: '8.6', type: 'ภาพยนตร์', poster: 'https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj6m8.jpg', description: 'ไมลส์ โมราเลส ออกผจญภัยข้ามมัลติเวิร์สและพบเหล่าสไปเดอร์แมนจากมิติต่าง ๆ' },
+  { id: 5, title: 'Oppenheimer', year: 2023, genre: 'ดราม่า', rating: '8.3', type: 'ภาพยนตร์', poster: 'https://image.tmdb.org/t/p/w500/ptpr0kGAckfQkJeJIt8st5dglvd.jpg', description: 'เรื่องราวของนักฟิสิกส์ผู้มีบทบาทในการพัฒนาอาวุธนิวเคลียร์' },
+  { id: 6, title: 'Top Gun: Maverick', year: 2022, genre: 'แอ็กชัน', rating: '8.2', type: 'ภาพยนตร์', poster: 'https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg', description: 'นักบินฝีมือฉกาจกลับมาฝึกนักบินรุ่นใหม่สำหรับภารกิจที่ท้าทายที่สุด' },
+  { id: 7, title: 'The Last of Us', year: 2023, genre: 'ดราม่า', rating: '8.7', type: 'ซีรีส์', poster: 'https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg', description: 'การเดินทางเอาชีวิตรอดในโลกหลังการระบาดครั้งใหญ่' },
+  { id: 8, title: 'Wednesday', year: 2022, genre: 'แฟนตาซี', rating: '8.0', type: 'ซีรีส์', poster: 'https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg', description: 'เวนส์เดย์ แอดดัมส์ สืบปริศนาในโรงเรียนประหลาดแห่งหนึ่ง' },
+];
